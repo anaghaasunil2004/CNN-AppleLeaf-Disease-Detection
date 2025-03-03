@@ -42,5 +42,3 @@ pip install tensorflow keras numpy pandas matplotlib seaborn
 
 ## License
 This project is licensed under the **MIT License**.
-```
-
