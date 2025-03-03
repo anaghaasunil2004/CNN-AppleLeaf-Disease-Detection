@@ -33,7 +33,7 @@ pip install tensorflow keras numpy pandas matplotlib seaborn
 3. Load the dataset and train the model.
 
 ## Results
-- Achieved **65% accuracy**.
+- Achieved **46% accuracy**.
 - Struggles with complex disease patterns compared to deeper models.
 
 ## Future Improvements
